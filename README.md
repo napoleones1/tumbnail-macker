@@ -6,9 +6,9 @@
 🔥 Dibangun dengan Node.js + AI (Gemini)  
 🌐 Dipublish & siap dipakai
 
-![GitHub stars](https://img.shields.io/github/stars/username/thumbnail-maker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/thumbnail-maker?style=social)
-![GitHub license](https://img.shields.io/github/license/username/thumbnail-maker)
+![GitHub stars](https://img.shields.io/github/stars/napoleones1/thumbnail-maker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/napoleones1/thumbnail-maker?style=social)
+![GitHub license](https://img.shields.io/github/license/napoleones1/thumbnail-maker)
 
 </div>
 
