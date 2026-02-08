@@ -28,8 +28,8 @@ Aplikasi ini menggunakan **Gemini API** sebagai otak AI-nya 🤖✨
 
 ## 🔗 Live Demo
 
-🎯 Lihat & jalankan aplikasi di AI Studio:  
-👉 https://ai.studio/apps/drive/1p9YEoJrwpNqJ9mpLfegT4bAF-_c9lokT
+🎯 Lihat & jalankan aplikasi di:  
+👉 https://tumbnail-macker.vercel.app/
 
 ---
 
